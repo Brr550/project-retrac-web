@@ -505,8 +505,10 @@ body {
 
 @media (max-width: 768px) {
     .logo {
-        top: 50px; 
-        left: 10px; 
+        width: 150px; 
+        position: absolute; 
+        top: 60px; 
+        left: -30px; 
     }
 
     .title-container h1 {
